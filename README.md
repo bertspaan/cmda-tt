@@ -13,9 +13,9 @@ The file [`buildings-amsterdam.csv`](buildings-amsterdam.csv) contains all build
 
 This repository contains 3 GeoJSON files:
 
-1. [`gebouwen-amsterdam-2-buurten.geojson`](gebouwen-amsterdam-2-buurten.geojson)
-2. [`gebouwen-amsterdam-5-buurten.geojson`](gebouwen-amsterdam-5-buurten.geojson)
-3. [`gebouwen-amsterdam-10-buurten.geojson`](gebouwen-amsterdam-10-buurten.geojson)
+1. [`buildings-amsterdam-2-buurten.geojson`](buildings-amsterdam-2-buurten.geojson)
+2. [`buildings-amsterdam-5-buurten.geojson`](buildings-amsterdam-5-buurten.geojson)
+3. [`buildings-amsterdam-10-buurten.geojson`](buildings-amsterdam-10-buurten.geojson)
 
 The first file contains buildings for the following neighbourhoods (buurten in Dutch):
 
