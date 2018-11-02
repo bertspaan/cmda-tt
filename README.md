@@ -38,7 +38,7 @@ To create this file:
 
 The largest GeoJSON files contains 5 more neighbourhoods:
 
-- `Betondorp`: 03630000000774
+- `03630000000774`: Betondorp
 - `03630000000598`: Steigereiland Zuid
 - `03630023753971`: Duivelseiland
 - `03630000000498`: Driehoekbuurt
@@ -54,7 +54,7 @@ To run `node index.js`, you need to install its dependencies first by running `n
 
 Use the following query to convert all building data to CSV:
 
-```
+```sql
 CREATE VIEW buildings_cmda AS
   SELECT DISTINCT ON (p.id)
     p.id,
